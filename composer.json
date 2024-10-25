@@ -1,0 +1,16 @@
+{
+    "name": "dsw/rating",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dsw\\Rating\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruben",
+            "email": "rubenchedas12@gmail.com"
+        }
+    ],
+    "require": {}
+}
